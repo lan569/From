@@ -1,1 +1,10 @@
 D:\地铁消费系统\地铁消费系统\From\bin\Debug\From.exe.config
+D:\地铁消费系统\地铁消费系统\From\bin\Debug\From.exe
+D:\地铁消费系统\地铁消费系统\From\bin\Debug\From.pdb
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.csprojResolveAssemblyReference.cache
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.LoginFrom.resources
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.MainForm.resources
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.Properties.Resources.resources
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.csproj.GenerateResource.Cache
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.exe
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.pdb
