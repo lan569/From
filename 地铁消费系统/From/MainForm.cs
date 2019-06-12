@@ -16,5 +16,21 @@ namespace From
         {
             InitializeComponent();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            //加载页面事件  
+            this.treeView1.ExpandAll();    //展开treeview所有节点
+        }
+
+        private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            //结束进程
+            DialogResult rs = MessageBox.Show("确定退出系统？","温馨提示",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+            if (rs==DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
     }
 }

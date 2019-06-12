@@ -8,3 +8,4 @@ D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.Properties.Resource
 D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.csproj.GenerateResource.Cache
 D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.exe
 D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.pdb
+D:\地铁消费系统\地铁消费系统\From\obj\Debug\From.LMX.ExitFrom.resources
