@@ -103,25 +103,25 @@
     <Folder Include="ZFR\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\coffee_062.png" />
+    <None Include="images\coffee_062.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\导航菜单.jpg" />
+    <None Include="images\导航菜单.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\电话.png" />
+    <None Include="images\电话.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\信息管理.jpg" />
+    <None Include="images\信息管理.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\页面.jpg" />
+    <None Include="images\页面.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\用户管理.jpg" />
+    <None Include="images\用户管理.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\左侧背景纹理.jpg" />
+    <None Include="images\左侧背景纹理.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
